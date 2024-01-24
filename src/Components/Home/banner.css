@@ -1,0 +1,7 @@
+#banner{
+ 
+    background: url("https://mortgagesolutions.net/wp-content/uploads/fha-mortgage-rent-out-home-scaled.jpg") no-repeat;
+    background-position:center;
+    background-size: cover;
+    background-blend-mode: overlay;
+}
